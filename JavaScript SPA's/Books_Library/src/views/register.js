@@ -39,7 +39,7 @@ export function registerPage(ctx) {
 
         const email = formData.get('email').trim();
         const password = formData.get('password').trim();
-        const repeatPass = formData.get('repeat-pass').trim();
+        const repeatPass = formData.get('confirm-pass').trim();
 
         if (email == '' || password == '') {
             return alert('All field are required!');
