@@ -15,6 +15,5 @@
    |<a href="https://softuni.bg/trainings/3487/js-advanced-september-2021"> **JavaScript Advanced - September 2021** </a>| <a href="https://softuni.bg/certificates/details/114814/a242d3e8"> Link</a> |
    |<a href="https://softuni.bg/trainings/3488/js-applications-october-2021"> **JavaScript Applications - October 2021** </a>| <a href="https://softuni.bg/certificates/details/120927/9aac62e2"> Link</a> |
    |<a href="https://softuni.bg/trainings/3594/js-back-end-january-2022"> **JavaScript Back End - January 2022** </a>|<a href="https://softuni.bg/certificates/details/127504/980210d9"> Link</a> |
-   |<a href="https://softuni.bg/trainings/3603/angular-march-2022"> **Angular - March 2022** </a>|Currently studying |
-
+   |<a href="https://softuni.bg/trainings/3603/angular-march-2022">**Angular - January 2022** </a>|<a href="https://softuni.bg/certificates/details/133081/a2f92da8"> Link</a> |
 <p align="center">All tasks are done with result 100/100 points.<p>
